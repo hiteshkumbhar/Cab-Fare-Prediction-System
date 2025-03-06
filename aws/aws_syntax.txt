@@ -1,0 +1,16 @@
+syntax for connect remote shh to aws 
+ssh -i "fair_pred.pem" ubuntu@ec2-"public ip ".amazonaws.com
+
+
+1) .pem file created while setting ec2 instance 
+2) allow permission to access .pem file 
+	chmod 400 fair_pred.pem   for read only 
+				(600 read, write)
+				(700 read write , excute)
+
+if you want to deploy application files over ec2 and run as pickel file 
+
+scp -i "fair_pred.pem" streamlit_app ubuntu@ec2-4180.compute-1.amazonaws.com:/remote/destination/path
+
+
+
