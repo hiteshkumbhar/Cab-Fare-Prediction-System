@@ -1,0 +1,19 @@
+pandas 
+boto3 
+scikit-learn 
+streamlit 
+joblib
+sagemaker
+numpy
+pyspark
+pysqlite3
+s3fs
+smart_open
+streamlit
+# pickle
+requests
+pydeck
+folium
+datetime
+geopy
+streamlit-folium
