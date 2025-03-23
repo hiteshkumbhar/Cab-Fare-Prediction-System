@@ -57,9 +57,6 @@ aws deployement deleted after deployement
 https://github.com/rishikeshdound/cloud_Deploy
 app deployed might be taken down : https://rishi-cabfare.streamlit.app/ 
 
-## Author
-[Rishikesh Dound](https://github.com/rishikeshdound)
-
 ## License
 This project is licensed under the MIT License.
 
